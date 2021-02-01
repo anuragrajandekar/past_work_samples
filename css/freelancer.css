@@ -78,11 +78,11 @@ hr.star-primary:after {
   color: #c0392b;
   text-transform: capitalize;
   font: 100 40px 'Lato', Helvetica, sans-serif;
-  font-style: italic;
+  font-style: none;
 }
 
 .project-details {
-  text-align: center;
+  text-align: left;
   //font-style: italic;
   font: 100 20px 'Lato', Helvetica, sans-serif;
 }
